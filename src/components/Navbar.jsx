@@ -67,14 +67,14 @@ const Navbar = () => {
           </Badge>
           <Avatar
             sx={{ height: 30, width: 30 }}
-            src="https://pixabay.com/illustrations/man-face-portrait-male-guy-6153298/"
+            src="https://images.pexels.com/photos/2128807/pexels-photo-2128807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             onClick={(e) => setOpen(true)}
           />
         </Icons>
         <UserBox onClick={(e) => setOpen(true)}>
           <Avatar
             sx={{ height: 30, width: 30 }}
-            src="https://pixabay.com/illustrations/man-face-portrait-male-guy-6153298/"
+            src="https://images.pexels.com/photos/2128807/pexels-photo-2128807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           />
           <Typography variant="span">John</Typography>
         </UserBox>

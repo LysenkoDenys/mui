@@ -21,6 +21,7 @@ const Navbar = () => {
   const StyledToolbar = styled(Toolbar)({
     display: 'flex',
     justifyContent: 'space-between',
+    // backgroundColor: 'rgba(20, 255, 20, 80%)',
   });
 
   const Search = styled('div')(({ theme }) => ({
@@ -52,7 +53,7 @@ const Navbar = () => {
     <AppBar position="sticky">
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: 'none', sm: 'block' } }}>
-          LAMA DEV
+          NATURE MUI
         </Typography>
         <EmojiNatureIcon sx={{ display: { xs: 'block', sm: 'none' } }} />
         <Search>

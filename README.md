@@ -1,6 +1,6 @@
 # The MUI learning
 
-### The application is created by discover basics of material UI library.
+### The application is created by discover basics of the Material UI library.
 
 ### The application deployed here:
 
